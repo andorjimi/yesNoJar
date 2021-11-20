@@ -15,7 +15,19 @@ h1 {
 	color: #32c1cd;
 }
 
-img {
-	width: 50%;
+/* img {
+	width: 35%;
+	margin-left: center;
+} */
+
+.jar {
+	display: block;
+	width: 35%;
+	margin: auto;
+}
+
+#footer {
+	color: bisque;
+	padding: 50px;
 	text-align: center;
 }
