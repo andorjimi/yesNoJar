@@ -1,3 +1,9 @@
+.container {
+	width: 70%;
+	margin: auto;
+	text-align: center;
+}
+
 body {
 	background-color: #544179;
 }
@@ -7,4 +13,9 @@ h1 {
 	text-shadow: 5px 0 #232931;
 	font-size: 8rem;
 	color: #32c1cd;
+}
+
+img {
+	width: 50%;
+	text-align: center;
 }
