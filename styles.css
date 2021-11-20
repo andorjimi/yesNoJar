@@ -1,7 +1,6 @@
 .container {
 	width: 70%;
 	margin: auto;
-	/* text-align: center; */
 }
 
 body {
@@ -43,17 +42,15 @@ h2 {
 .jar {
 	display: block;
 	width: 35%;
-	/* margin: auto; */
 	margin-left: 32%;
 	position: absolute;
 }
 
 .parchment {
 	position: absolute;
-	display: block;
-	/* display: none; */
+	display: none;
+	/* visibility: hidden; */
 	width: 25%;
-	/* margin: auto; */
 	margin-left: 37%;
 	margin-top: 8%;
 }
@@ -63,5 +60,4 @@ h2 {
 #footer {
 	color: bisque;
 	padding: 50px;
-	/* text-align: center; */
 }
