@@ -18,7 +18,7 @@ h1 {
 }
 
 h2 {
-	margin 30px;
+	margin: 30px;
 	text-shadow: 5px 0 #232931;
 }
 .jar {
@@ -28,11 +28,16 @@ h2 {
 }
 
 .btn {
-	/* color: #32c1cd */
 	margin: 30px;
-	background-color: #6166B3;
-	/* width: 15rem; */
-
+	background-color: #6166b3;
+	color: #fff;
+	font-size: 20px;
+	border-radius: 50%;
+	border-color: gold;
+	/* border: 2px solid gold; */
+	width: 15rem;
+	height: 5rem;
+	box-shadow: 5px;
 }
 
 #footer {
