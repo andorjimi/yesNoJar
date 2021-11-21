@@ -1,10 +1,23 @@
 # Yes No Jar
 
-This is just a personal challenge that I have have set myself. 
+## The Game
+For many years while growing up, my mother would use a little jar with small scraps of folded paper with either the words "yes", "no", or blank. She would use this jar when needed to decide about something. 
 
-My mother used to use a jar with little bits of paper in it some would say "yes" and others would say "No". I thought that building this as a html/css/and javascript project would make a nice practice project.
+The game itself is very simple.
+1. Think of your question.
+2. click the button and read the answer. Then
+## Goal
 
+My goal with this project is to practice using DOM, HTML, CSS and Javascript on a web page.
+
+I thought that this would be quite simple, giving me practice on some of the basic fundaments of web development. 
 
 Tools:
-colour Palette:
-[colorhunt](https://colorhunt.co/palette/5441796166b332c1cd17d7a0)
+colour Palette: [colorhunt](https://colorhunt.co/palette/5441796166b332c1cd17d7a0)
+
+Images from: [FreeSVG](https://freesvg.org)
+
+## Finished
+
+The game is working. However, it needs some work to make it responsive.
+
