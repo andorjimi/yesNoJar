@@ -56,12 +56,16 @@ h2 {
 }
 
 .answer {
+	/* background-color: #fff; */
+	width: 100px;
 	position: absolute;
-	left: 46.5%;
-	top: 53%;
+	left: 45.8%;
+	top: 52%;
 	color: black;
 	text-shadow: none;
-	font-style: italic;
+	font-size: 3rem;
+	text-align: center;
+	font-family: fantasy;
 }
 
 #footer {
