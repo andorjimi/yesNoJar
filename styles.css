@@ -63,9 +63,7 @@ h2 {
 }
 
 .answer {
-	/* background-color: #fff; */
 	display: none;
-	/* display: block; */
 	width: 100px;
 	color: black;
 	text-shadow: none;
@@ -76,7 +74,6 @@ h2 {
 
 /* Footer */
 #footer {
-	/* position: relative; */
 	margin-top: 15%;
 	color: bisque;
 	padding: 50px;
